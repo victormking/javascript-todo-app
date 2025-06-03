@@ -1,8 +1,7 @@
 # javascript-todo-app
 Simple to-do list built with HTML, CSS, and JavaScript.
 
-# javascript-todo-app
-Simple to-do list built with HTML, CSS, and JavaScript.
+
 # 📝 JavaScript To-Do List App
 
 This is a simple, interactive to-do list web application built using **HTML**, **CSS**, and **vanilla JavaScript**. It allows users to add, complete, and remove tasks directly in the browser with no external libraries or frameworks.
